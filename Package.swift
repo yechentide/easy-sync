@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "EasySync",
+    name: "easy-sync",
     platforms: [
         .macOS(.v13),
     ],
